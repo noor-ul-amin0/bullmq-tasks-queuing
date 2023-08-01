@@ -5,7 +5,7 @@ This project demonstrates the use of BullMQ with an Express server and TypeScrip
 ## Requirements
 
 - Node.js
-- Redis installed on your local machine
+- Redis installed on your local machine or use cloud addition
 
 ## Installation
 
